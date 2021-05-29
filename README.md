@@ -1,2 +1,0 @@
-# NewBolso
-SIte da Aplicação 
